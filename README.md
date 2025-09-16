@@ -14,12 +14,13 @@ NOT YET
 
 ## 📂 Featured Projects  
 
-NOT YET  
+NOT YET
+
 ---
 
 ## 📈 GitHub Stats  
 
-NOT YET  
+NOT YET
 
 ---
 
